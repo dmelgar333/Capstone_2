@@ -40,4 +40,4 @@ Python, Pandas, Matplotlib, Jupyter Notebook, Gitbash, Powerpoint
 ---
 
    
-**Video Link:**
+**Video Link:** https://yearuptemp-my.sharepoint.com/:f:/g/personal/dmelgar_my_yearupunited_org/IgCRsn7TlEVcQpuSNzQ_lx3EAbboyDKLsz2Lma8gBzR17ZM?tdid=80b17343-bc31-4adc-ae22-b2a974deefd8
